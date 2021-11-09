@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ <h1>hello new file</h1>
+ <h2>수정이 왜 안됬지</h2>
 </body>
 </html>
